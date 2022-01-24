@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 10rem;
+}
+
+.inner-container,
+.items {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
